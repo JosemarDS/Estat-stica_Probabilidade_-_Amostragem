@@ -1,1 +1,1 @@
-# Estat-stica_Probabilidade_-_Amostragem
+Você conhecerá os conceitos fundamentais que são essenciais para a análise de dados. Você aprenderá sobre estatística descritiva, como medidas de tendência central (média, mediana e moda) e dispersão (variância e desvio padrão). Esta etapa fornecerá a base matemática necessária para interpretar corretamente os dados e dar suporte à tomada de decisões confiantes.
